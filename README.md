@@ -1,4 +1,3 @@
-# Cronograma de estudos Bootcamp
 
 ![Cronograma Semanal](https://github.com/murilokrugner/cronograma-de-estudos-bootcamp/blob/master/cronograma-semanal.PNG)
 
